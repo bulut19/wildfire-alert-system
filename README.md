@@ -42,7 +42,7 @@ Google Cloud (Cloud Storage, BigQuery, BigQuery ML, Pub/Sub, Cloud Functions, Cl
 
 - `wildfire_alert_system.ipynb`: full pipeline (batch ingestion, both ML models with the linear-to-boosted-tree progression, real-time streaming infrastructure, and grid-based prediction generation for the dashboard)
 - `README.md`: this file
-- `dashboard_screenshot.png`: screenshot of the Looker Studio dashboard, included since the live link is no longer active
+- `dashboard_screenshot.png`: screenshot of the Looker Studio dashboard
 
 ## Team
 
